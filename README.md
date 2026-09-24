@@ -7,6 +7,12 @@ Spicy Player is an offline music player for Android with a port of [Spicy Lyrics
 > [!WARNING]
 > This is a work in progress. The app is not yet complete and may have bugs.
 
+## Project status: why updates have slowed
+
+New feature work on this version of Spicy Player has slowed because maintaining a full offline music player was pulling time away from the lyrics experience. Development is shifting to a clean, lyrics-focused successor that follows playback from other music apps instead of managing its own library, queue, and audio playback. The goal is to carry forward the lyric renderer, dynamic background, synchronization work, and updated lyrics sources without carrying over the old player's maintenance burden.
+
+This repository is staying available, but updates here may be infrequent. The successor is still in development, is not a drop-in replacement yet, and has no release date. This is a change in direction, not a claim that the current app is finished.
+
 ---
 
 ## Key Features
