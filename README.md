@@ -1,17 +1,20 @@
 ![Spicy Player Banner](spicyplayer.png)
 
-# Spicy Player
+# Spicy Player (old)
+
+> [!NOTE]
+> **Looking for the Spicy Player lyrics app?** The new [Spicy Player](https://github.com/TheX24/spicy-player) shows Spicy Lyrics-style synced lyrics for whatever is playing in Spotify, YouTube Music or any other app. This repository is the earlier offline music player.
 
 Spicy Player is an offline music player for Android with a port of [Spicy Lyrics](https://github.com/Spikerko/spicy-lyrics) - A [Spicetify](https://spicetify.app/) Extension, designed to achieve **visual parity** with Spicy Lyrics' rendering. Built using **Jetpack Compose (Canvas API)** and **ExoPlayer**.
 
 > [!WARNING]
 > This is a work in progress. The app is not yet complete and may have bugs.
 
-## Project status: why updates have slowed
+## Project status: no longer developed
 
-New feature work on this version of Spicy Player has slowed because maintaining a full offline music player was pulling time away from the lyrics experience. Development is shifting to a clean, lyrics-focused successor that follows playback from other music apps instead of managing its own library, queue, and audio playback. The goal is to carry forward the lyric renderer, dynamic background, synchronization work, and updated lyrics sources without carrying over the old player's maintenance burden.
+This offline music player has been succeeded by [Spicy Player](https://github.com/TheX24/spicy-player), a lyrics app that follows the music playing in other apps instead of managing its own library, queue, and playback. It carries on what this app was built for: the word-synced lyric renderer, the dynamic backgrounds and the synchronization work, plus many more lyrics sources and romanization. It installs as a separate app, so it won't replace or erase this one.
 
-This repository is staying available, but updates here may be infrequent. The successor is still in development, is not a drop-in replacement yet, and has no release date. This is a change in direction, not a claim that the current app is finished.
+This repository stays up for reference, and its releases remain available, but it won't get new features or fixes.
 
 ---
 
